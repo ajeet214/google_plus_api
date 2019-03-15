@@ -1,0 +1,14 @@
+Flask
+requests[socks]
+bson
+pymongo
+google-api-python-client==1.6.5
+gunicorn
+beautifulsoup4
+lxml
+textblob
+demjson
+ipython
+requests-futures
+pytest
+raven[flask]
